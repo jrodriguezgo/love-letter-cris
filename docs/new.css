@@ -13,6 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url('cat-cartoon-love-flower-illustration-cute-pink-yellow-natural-nature-background-graphic-design-backdrop-50854413.jpg');
 }
 @media (max-height: 500px) {
     body {
